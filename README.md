@@ -14,7 +14,7 @@ After downloading the `checkpoints` folder, your repository should be structured
 <BKAI-IGH-NeoPolyp-Segmentation-Assignment>/
 ├── checkpoints/ # Directory for saved model checkpoints 
 
-  │ └── colorization_model.pth 
+    │ └── colorization_model.pth 
 
 ├── infer.py # Inference script 
 
