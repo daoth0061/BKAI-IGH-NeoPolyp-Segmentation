@@ -11,10 +11,10 @@ The model checkpoints are available for download via the following Google Drive 
 
 After downloading the `checkpoints` folder, your repository should be structured as follows:
 
-<BKAI-IGH NeoPolyp Segmentation Assignment>/
+<BKAI-IGH-NeoPolyp-Segmentation-Assignment>/
 ├── checkpoints/ # Directory for saved model checkpoints 
 
-│ └── colorization_model.pth 
+  │ └── colorization_model.pth 
 
 ├── infer.py # Inference script 
 
@@ -28,13 +28,14 @@ After downloading the `checkpoints` folder, your repository should be structured
 
 Make sure to install the dependencies listed in `requirements.txt` before running the code:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Inference
 
 Run the following command to perform inference:
 
-python infer.py --image_path <input_image_path> --output_path <output_image_path>
+`python infer.py --image_path <input_image_path> --output_path <output_image_path>`
+
 Replace <input_image_path> with the path to the input image and <output_image_path> with the desired output path for the segmented image.
 
 ## Training
