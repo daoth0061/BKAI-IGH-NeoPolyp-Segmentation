@@ -11,7 +11,18 @@ The model checkpoints are available for download via the following Google Drive 
 
 After downloading the `checkpoints` folder, your repository should be structured as follows:
 
-<BKAI-IGH NeoPolyp Segmentation Assignment>/ ├── checkpoints/ # Directory for saved model checkpoints │ └── colorization_model.pth ├── infer.py # Inference script ├── README.md # Project documentation ├── dl-assignment-segmentation.ipynb # Notebook for training ├── requirements.txt # Dependencies for the project
+<BKAI-IGH NeoPolyp Segmentation Assignment>/
+├── checkpoints/ # Directory for saved model checkpoints 
+
+│ └── colorization_model.pth 
+
+├── infer.py # Inference script 
+
+├── README.md # Project documentation 
+
+├── dl-assignment-segmentation.ipynb # Notebook for training 
+
+├── requirements.txt # Dependencies for the project
 
 ## Requirements
 
