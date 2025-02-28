@@ -1,6 +1,6 @@
-# BKAI-IGH NeoPolyp Segmentation Assignment
+# BKAI-IGH NeoPolyp Segmentation
 
-This repository contains the code and resources for the BKAI-IGH NeoPolyp Segmentation Assignment. Follow the instructions below to set up the repository and run the project.
+This repository contains the code and resources for the BKAI-IGH NeoPolyp Segmentation. Follow the instructions below to set up the repository and run the project.
 
 ## Checkpoints
 
